@@ -40,7 +40,7 @@
 
 ## 文件结构 (简要)
 
-yaopinguanli_project/
+PharmacySystem_project/
 ├── data/                     # 数据存储目录 (程序运行时根据需要自动创建)
 
 │   ├── medicines.dat         # 存储药品信息
